@@ -1,4 +1,4 @@
-# Project Title
+# GraphQL - A test of GET and PUT
 
 The last simplest possible Python script that shows GraphQL in action.
 In this script, GraphQL just returns the specific data fields that you ask for.
